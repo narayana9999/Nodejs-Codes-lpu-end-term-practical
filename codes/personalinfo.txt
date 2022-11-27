@@ -1,0 +1,7 @@
+{
+  "email": "narayanjasthi@gmail.com",
+  "name": "JasthiLakshmiNarayana",
+  "mobile": "9652793829",
+  "password": "ppplllmmm",
+  "gender": "male"
+}
